@@ -1,0 +1,139 @@
+.index {
+    border: solid grey;
+    margin: 50px 120px;
+    padding: 20px;
+    background: white;
+    
+}
+.contact {
+    width: 646px;
+    background: white;
+    border: solid grey;
+    margin: 20px auto;
+    height: 489px;
+}
+.portfolio {
+    height: 480px;
+    padding: 20px;
+    margin: 20px auto;
+    width: 840px;
+    border: solid grey;
+    background: white
+
+}
+.portfolio-title {
+    border-bottom: solid grey;
+    margin: 10px;
+}
+.contact-title {
+    width: 585px;
+    border-bottom: solid grey;
+    margin: 10px;
+}
+.about-me {
+    border-bottom: solid grey;
+    margin: 10px;
+}
+body {
+    margin: 0 auto;
+    height: 581px;
+    background-image: url("background.png")
+}
+.header {
+    border-bottom: solid grey;
+}
+.input {
+    width: 80%;
+}
+
+.message {
+    width: 80%;
+    height: 150px;
+}
+
+ .form {
+     
+     float: left;
+     width: 700px;
+ }
+ .button {
+     position: relative;
+     left: 85px;
+ }
+ .overflow {
+     overflow-x: scroll;
+     height: 360px;
+ }
+#pic-name1 {
+    background: #4aaaa5;
+    position: relative;
+    width: 300px;
+    text-align: center;
+    font-weight: bold;
+    bottom: 50px;
+}
+#pic-name2 {
+    background: #4aaaa5;
+    position: relative;
+    width: 300px;
+    text-align: center;
+    font-weight: bold;
+    bottom: 50px;
+}
+#pic-name3 {
+    background: #4aaaa5;
+    position: relative;
+    width: 300px;
+    text-align: center;
+    font-weight: bold;
+    bottom: 50px;
+}
+#pic-name4 {
+    background: #4aaaa5;
+    position: relative;
+    width: 300px;
+    text-align: center;
+    font-weight: bold;
+    bottom: 50px;
+}
+#pic-name5 {
+    background: #4aaaa5;
+    position: relative;
+    width: 300px;
+    text-align: center;
+    font-weight: bold;
+    bottom: 50px;
+}
+#img1 {
+    position: relative;
+    left: 60px;
+}
+#img2{
+    position: relative;
+    bottom: 260px;
+    left: 430px;
+
+}
+#img3 {
+    position: relative;
+    bottom: 280px;
+    left: 60px;
+
+}
+#img4 {
+    position: relative;
+    bottom: 540px;
+    left: 430px;
+
+}
+#img5 {
+    position: relative;
+    bottom: 560px;
+    left: 60px;
+
+}
+.copyright {
+    text-align: center;
+    color: black;
+    margin: 0 auto;
+}
