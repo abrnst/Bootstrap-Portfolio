@@ -5,6 +5,20 @@
     background: white;
     
 }
+.link {
+    position: relative;
+    right: 105px;
+    top: 20px;
+    
+}
+.name {
+    border: solid grey;
+    padding: 5px 20px;
+    position: relative;
+    top: 11px;
+    left: 105px;
+    background: #4aaaa5;
+}
 .contact {
     width: 646px;
     background: white;
@@ -35,13 +49,16 @@
     margin: 10px;
 }
 body {
+    border-bottom: solid #4aaaa5;
     margin: 0 auto;
-    height: 581px;
+    height: 597px;
     background-image: url("background.png")
+    
 }
 .header {
     border-bottom: solid grey;
 }
+
 .input {
     width: 80%;
 }
@@ -59,6 +76,7 @@ body {
  .button {
      position: relative;
      left: 85px;
+     background: #4aaaa5;
  }
  .overflow {
      overflow-x: scroll;
