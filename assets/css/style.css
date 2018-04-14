@@ -6,9 +6,9 @@
     
 }
 .link {
-    position: relative;
-    right: 105px;
-    top: 20px;
+    margin-right: 80px;
+    float: right;
+    
     
 }
 .name {
